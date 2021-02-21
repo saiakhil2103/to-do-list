@@ -1,0 +1,17 @@
+h1{
+	font-family: cursive, serif, fantasy, "Times New Roman";
+	text-align: center;
+	margin-top: 25px;
+}
+
+.task{
+	margin: 10%;
+	margin-top: 2%;
+	width: 75%;
+}
+
+.newList{
+	text-align: center;
+	width: 75%;
+	margin-left: 10%;
+}
